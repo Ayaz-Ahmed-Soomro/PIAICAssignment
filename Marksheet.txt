@@ -1,0 +1,10 @@
+==================================================	
+ Welcome to Our Marksheet
+==================================================
+Subject: 	 total Marks 	 obtain Marks
+English		 100			88
+Math		 100			99
+Sindhi		 100			77
+Chem		 100			85
+Physics		 100			95
+total obtain marks are 444 , total Marks 500 percetage is : 88.8
